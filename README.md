@@ -1,0 +1,1 @@
+This is a minesweeper game in Go (to learn Go)
